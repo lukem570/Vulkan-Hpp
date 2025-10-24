@@ -1,0 +1,5 @@
+[package]
+name="vkhpp"
+version="0.0.1"
+description="vulkan headers for c++"
+include=" "
